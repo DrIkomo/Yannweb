@@ -1,0 +1,141 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yandesign.cc" resolutions="1x" timestamp="1488540156224">
+  <folder name="css">
+    <file name="site_global.css" crc="329609820"/>
+    <file name="master_a-master.css" crc="4274678631" ref="siri-chair:index:empty-man:about-me:city-1.0-ar:zen:experiments-in-code:smiley:papers:doodlebook:game-research"/>
+    <file name="siri-chair.css" crc="390979690" ref="siri-chair"/>
+    <file name="index.css" crc="3851743454" ref="index"/>
+    <file name="empty-man.css" crc="3861350297" ref="empty-man"/>
+    <file name="about-me.css" crc="4114144226" ref="about-me"/>
+    <file name="city-1_0-ar.css" crc="4011398550" ref="city-1.0-ar"/>
+    <file name="zen.css" crc="60612344" ref="zen"/>
+    <file name="experiments-in-code.css" crc="352094592" ref="experiments-in-code"/>
+    <file name="smiley.css" crc="126874752" ref="smiley"/>
+    <file name="papers.css" crc="3969805918" ref="papers"/>
+    <file name="doodlebook.css" crc="4168652259" ref="doodlebook"/>
+    <file name="game-research.css" crc="3924179320" ref="game-research"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="museutils.js" crc="3851988764" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="whatinput.js" crc="86476730" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="museconfig.js" crc="4242129463" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="pie.js" crc="3831537696" ref="about-me"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="require.js" crc="4108833657" ref="about-me:index:papers:smiley:experiments-in-code:game-research:empty-man:zen:siri-chair:city-1.0-ar:doodlebook"/>
+    <file name="webpro.js" crc="4067903014" ref="doodlebook"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="doodlebook"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="doodlebook"/>
+    <file name="touchswipe.js" crc="474750357" ref="doodlebook"/>
+  </folder>
+  <folder name="images">
+    <file name="about me.jpg" crc="418620129" seo="true" ref="about-me"/>
+    <file name="homepage.jpg" crc="504888058" seo="true" ref="index"/>
+    <file name="smiley01.jpg" crc="4276919701" seo="true" ref="index"/>
+    <file name="code01.jpg" crc="4041644209" seo="true" ref="index"/>
+    <file name="zen01.jpg" crc="3827371493" seo="true" ref="index"/>
+    <file name="sensor.png" crc="3813515030" seo="true" ref="index"/>
+    <file name="empty01.png" crc="531787932" seo="true" ref="index"/>
+    <file name="city01.jpg" crc="4207097145" seo="true" ref="index"/>
+    <file name="gamemain.jpg" crc="4201651998" seo="true" ref="index:game-research"/>
+    <file name="sketch02.png" crc="3934604722" seo="true" ref="index"/>
+    <file name="facialprcess.jpg" crc="4121354226" seo="true" ref="smiley"/>
+    <file name="smiley02.jpg" crc="448742544" seo="true" ref="smiley"/>
+    <file name="smiley03.jpg" crc="4160771733" seo="true" ref="smiley"/>
+    <file name="smiley04.jpg" crc="4157556633" seo="true" ref="smiley"/>
+    <file name="code02.jpg" crc="106575398" seo="true" ref="experiments-in-code"/>
+    <file name="code08.jpg" crc="509221026" seo="true" ref="experiments-in-code"/>
+    <file name="code07.jpg" crc="4223153956" seo="true" ref="experiments-in-code"/>
+    <file name="code09.jpg" crc="4117948014" seo="true" ref="experiments-in-code"/>
+    <file name="code04.jpg" crc="141744270" seo="true" ref="experiments-in-code"/>
+    <file name="code05.jpg" crc="3961814631" seo="true" ref="experiments-in-code"/>
+    <file name="code06.jpg" crc="359285866" seo="true" ref="experiments-in-code"/>
+    <file name="lc01.png" crc="4194460313" seo="true" ref="game-research"/>
+    <file name="available.png" crc="33789491" seo="true" ref="game-research"/>
+    <file name="lc02.jpg" crc="3951596626" seo="true" ref="game-research"/>
+    <file name="lc03.jpg" crc="449511511" seo="true" ref="game-research"/>
+    <file name="lc04.jpg" crc="147460805" seo="true" ref="game-research"/>
+    <file name="cd01.jpg" crc="4060364920" seo="true" ref="game-research"/>
+    <file name="cd04.jpg" crc="210121893" seo="true" ref="game-research"/>
+    <file name="cd02.jpg" crc="3795535015" seo="true" ref="game-research"/>
+    <file name="cd06.jpg" crc="387147737" seo="true" ref="game-research"/>
+    <file name="cd03.jpg" crc="3785990275" seo="true" ref="game-research"/>
+    <file name="cd08.jpg" crc="510155204" seo="true" ref="game-research"/>
+    <file name="cd07.jpg" crc="3959672851" seo="true" ref="game-research"/>
+    <file name="cd05.jpg" crc="3950428918" seo="true" ref="game-research"/>
+    <file name="cd10.jpg" crc="195537169" seo="true" ref="game-research"/>
+    <file name="capsule01.jpg" crc="235918572" seo="true" ref="game-research"/>
+    <file name="capsule04.jpg" crc="494965656" seo="true" ref="game-research"/>
+    <file name="capsule03.jpg" crc="4204291729" seo="true" ref="game-research"/>
+    <file name="capsule02.jpg" crc="139606893" seo="true" ref="game-research"/>
+    <file name="rh01.jpg" crc="344076774" seo="true" ref="game-research"/>
+    <file name="rh04.jpg" crc="4062278548" seo="true" ref="game-research"/>
+    <file name="rh03.jpg" crc="114852847" seo="true" ref="game-research"/>
+    <file name="rh02.jpg" crc="3903999700" seo="true" ref="game-research"/>
+    <file name="ming06.jpg" crc="3961490733" seo="true" ref="game-research"/>
+    <file name="ming01.jpg" crc="270059922" seo="true" ref="game-research"/>
+    <file name="ming05.jpg" crc="131142578" seo="true" ref="game-research"/>
+    <file name="ming04.jpg" crc="128489279" seo="true" ref="game-research"/>
+    <file name="ming03.jpg" crc="3928003384" seo="true" ref="game-research"/>
+    <file name="ming02.jpg" crc="350183480" seo="true" ref="game-research"/>
+    <file name="fl01.png" crc="3761113904" seo="true" ref="game-research"/>
+    <file name="fl02.png" crc="3896094485" seo="true" ref="game-research"/>
+    <file name="fl04.png" crc="507171082" seo="true" ref="game-research"/>
+    <file name="fl03.png" crc="150115064" seo="true" ref="game-research"/>
+    <file name="emptymain.png" crc="448433178" seo="true" ref="empty-man"/>
+    <file name="empty04.png" crc="329561670" seo="true" ref="empty-man"/>
+    <file name="empty03.png" crc="3992496695" seo="true" ref="empty-man"/>
+    <file name="empty02.png" crc="463414240" seo="true" ref="empty-man"/>
+    <file name="empty06.png" crc="4068686717" seo="true" ref="empty-man"/>
+    <file name="empty05.png" crc="199194136" seo="true" ref="empty-man"/>
+    <file name="zen concept.jpg" crc="4256752764" seo="true" ref="zen"/>
+    <file name="zen07.jpg" crc="4281564586" seo="true" ref="zen"/>
+    <file name="zen06.jpg" crc="4187215972" seo="true" ref="zen"/>
+    <file name="zen05.jpg" crc="3797607818" seo="true" ref="zen"/>
+    <file name="zen04.jpg" crc="397577418" seo="true" ref="zen"/>
+    <file name="zen03.jpg" crc="85907657" seo="true" ref="zen"/>
+    <file name="zen02.jpg" crc="3795074072" seo="true" ref="zen"/>
+    <file name="sensor01.jpg" crc="224256199" seo="true" ref="siri-chair"/>
+    <file name="flexi-force-arduino.jpg" crc="29442305" seo="true" ref="siri-chair"/>
+    <file name="sensor05.png" crc="28485741" seo="true" ref="siri-chair"/>
+    <file name="sensor02.png" crc="21708782" seo="true" ref="siri-chair"/>
+    <file name="sensor03.png" crc="3821342854" seo="true" ref="siri-chair"/>
+    <file name="sensor04.png" crc="406510510" seo="true" ref="siri-chair"/>
+    <file name="city02.png" crc="283273740" seo="true" ref="city-1.0-ar"/>
+    <file name="city05.png" crc="28144861" seo="true" ref="city-1.0-ar"/>
+    <file name="city04.png" crc="216369453" seo="true" ref="city-1.0-ar"/>
+    <file name="city03.png" crc="3890733721" seo="true" ref="city-1.0-ar"/>
+    <file name="sketch10.jpg" crc="367680107" seo="true" ref="doodlebook"/>
+    <file name="blank.gif" crc="4208392903" ref="doodlebook"/>
+    <file name="sketch08.jpg" crc="44789247" seo="true" ref="doodlebook"/>
+    <file name="sketch07.png" crc="3912327794" seo="true" ref="doodlebook"/>
+    <file name="sketch03.png" crc="3984500581" seo="true" ref="doodlebook"/>
+    <file name="sketch06.png" crc="129905267" seo="true" ref="doodlebook"/>
+    <file name="sketch04.jpg" crc="168204678" seo="true" ref="doodlebook"/>
+    <file name="sketch09.jpg" crc="144207711" seo="true" ref="doodlebook"/>
+    <file name="sketch01.jpg" crc="496862183" seo="true" ref="doodlebook"/>
+    <file name="sketch05.png" crc="4110977932" seo="true" ref="doodlebook"/>
+    <file name="sketch1055x40.jpg" crc="275596540" seo="true" ref="doodlebook"/>
+    <file name="sketch08-crop-u3609.jpg" crc="4040878255" ref="doodlebook"/>
+    <file name="sketch07-crop-u3892.png" crc="3970775221" ref="doodlebook"/>
+    <file name="sketch03-crop-u3912.png" crc="3863830114" ref="doodlebook"/>
+    <file name="sketch06-crop-u3649.png" crc="138546271" ref="doodlebook"/>
+    <file name="sketch0455x41.jpg" crc="4187308512" seo="true" ref="doodlebook"/>
+    <file name="sketch0956x37.jpg" crc="37792094" seo="true" ref="doodlebook"/>
+    <file name="sketch0155x40.jpg" crc="195193925" seo="true" ref="doodlebook"/>
+    <file name="sketch05-crop-u3850.png" crc="4046545729" ref="doodlebook"/>
+    <file name="loading.gif" crc="3815509949" ref="doodlebook"/>
+  </folder>
+  <file name="about-me.html" crc="157918550" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="index.html" crc="479869093" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="papers.html" crc="157571130" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="smiley.html" crc="68623288" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="experiments-in-code.html" crc="432784094" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="game-research.html" crc="3833066081" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="empty-man.html" crc="4138151106" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="zen.html" crc="122342675" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="siri-chair.html" crc="3903310920" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="city-1.0-ar.html" crc="3883654173" seo="true" mt="1488522540789" redirect="true"/>
+  <file name="doodlebook.html" crc="298274681" seo="true" mt="1488522540789" redirect="true"/>
+</manifest>
